@@ -1,0 +1,397 @@
+Loading images
+The number of training samples loaded: 200
+The number of test samples loaded: 200
+Show the first and last images of training dataset
+Start training your classifier
+------------------------   T =  1 ------------------------
+Computing integral images
+Building features
+Applying features to dataset
+Selecting best features
+Selected 5171 potential features
+Initialize weights
+Run No. of Iteration: 1
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(8, 0, 1, 3), RectangleRegion(7, 3, 1, 3)], negative regions=[RectangleRegion(7, 0, 1, 3), RectangleRegion(8, 3, 1, 3)]) with accuracy: 162.000000 and alpha: 1.450010
+trained------------------------
+
+Evaluate your classifier with training dataset
+False Positive Rate: 28/100 (0.280000)
+False Negative Rate: 10/100 (0.100000)
+Accuracy: 162/200 (0.810000)
+
+Evaluate your classifier with test dataset
+False Positive Rate: 49/100 (0.490000)
+False Negative Rate: 55/100 (0.550000)
+Accuracy: 96/200 (0.480000)
+
+Detect faces at the assigned location using your classifier
+find 4 faces in total
+find 14 faces in total
+
+Detect faces on your own images
+find 3 faces in total
+find 13 faces in total
+------------------------   T =  2 ------------------------
+Computing integral images
+Building features
+Applying features to dataset
+Selecting best features
+Selected 5171 potential features
+Initialize weights
+Run No. of Iteration: 1
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(8, 0, 1, 3), RectangleRegion(7, 3, 1, 3)], negative regions=[RectangleRegion(7, 0, 1, 3), RectangleRegion(8, 3, 1, 3)]) with accuracy: 162.000000 and alpha: 1.450010
+Run No. of Iteration: 2
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 8, 2, 9)], negative regions=[RectangleRegion(2, 8, 2, 9)]) 
+with accuracy: 156.000000 and alpha: 1.286922
+trained------------------------
+
+Evaluate your classifier with training dataset
+False Positive Rate: 28/100 (0.280000)
+False Negative Rate: 10/100 (0.100000)
+Accuracy: 162/200 (0.810000)
+
+Evaluate your classifier with test dataset
+False Positive Rate: 49/100 (0.490000)
+False Negative Rate: 55/100 (0.550000)
+Accuracy: 96/200 (0.480000)
+
+Detect faces at the assigned location using your classifier
+find 4 faces in total
+find 14 faces in total
+
+Detect faces on your own images
+find 3 faces in total
+find 13 faces in total
+------------------------   T =  3 ------------------------
+Computing integral images
+Building features
+Applying features to dataset
+Selecting best features
+Selected 5171 potential features
+Initialize weights
+Run No. of Iteration: 1
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(8, 0, 1, 3), RectangleRegion(7, 3, 1, 3)], negative regions=[RectangleRegion(7, 0, 1, 3), RectangleRegion(8, 3, 1, 3)]) with accuracy: 162.000000 and alpha: 1.450010
+Run No. of Iteration: 2
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 8, 2, 9)], negative regions=[RectangleRegion(2, 8, 2, 9)]) 
+with accuracy: 156.000000 and alpha: 1.286922
+Run No. of Iteration: 3
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(16, 16, 1, 2)], negative regions=[RectangleRegion(15, 16, 1, 2)]) with accuracy: 155.000000 and alpha: 1.011738
+trained------------------------
+
+Evaluate your classifier with training dataset
+False Positive Rate: 23/100 (0.230000)
+False Negative Rate: 1/100 (0.010000)
+Accuracy: 176/200 (0.880000)
+
+Evaluate your classifier with test dataset
+False Positive Rate: 48/100 (0.480000)
+False Negative Rate: 46/100 (0.460000)
+Accuracy: 106/200 (0.530000)
+
+Detect faces at the assigned location using your classifier
+find 3 faces in total
+find 4 faces in total
+
+Detect faces on your own images
+find 2 faces in total
+find 6 faces in total
+------------------------   T =  4 ------------------------
+Computing integral images
+Building features
+Applying features to dataset
+Selecting best features
+Selected 5171 potential features
+Initialize weights
+Run No. of Iteration: 1
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(8, 0, 1, 3), RectangleRegion(7, 3, 1, 3)], negative regions=[RectangleRegion(7, 0, 1, 3), RectangleRegion(8, 3, 1, 3)]) with accuracy: 162.000000 and alpha: 1.450010
+Run No. of Iteration: 2
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 8, 2, 9)], negative regions=[RectangleRegion(2, 8, 2, 9)]) 
+with accuracy: 156.000000 and alpha: 1.286922
+Run No. of Iteration: 3
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(16, 16, 1, 2)], negative regions=[RectangleRegion(15, 16, 1, 2)]) with accuracy: 155.000000 and alpha: 1.011738
+Run No. of Iteration: 4
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 14, 8, 2)], negative regions=[RectangleRegion(4, 16, 8, 2)]) with accuracy: 153.000000 and alpha: 0.908680
+trained------------------------
+
+Evaluate your classifier with training dataset
+False Positive Rate: 26/100 (0.260000)
+False Negative Rate: 2/100 (0.020000)
+Accuracy: 172/200 (0.860000)
+
+Evaluate your classifier with test dataset
+False Positive Rate: 49/100 (0.490000)
+False Negative Rate: 56/100 (0.560000)
+Accuracy: 95/200 (0.475000)
+
+Detect faces at the assigned location using your classifier
+find 4 faces in total
+find 10 faces in total
+
+Detect faces on your own images
+find 3 faces in total
+find 12 faces in total
+------------------------   T =  5 ------------------------
+Computing integral images
+Building features
+Applying features to dataset
+Selecting best features
+Selected 5171 potential features
+Initialize weights
+Run No. of Iteration: 1
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(8, 0, 1, 3), RectangleRegion(7, 3, 1, 3)], negative regions=[RectangleRegion(7, 0, 1, 3), RectangleRegion(8, 3, 1, 3)]) with accuracy: 162.000000 and alpha: 1.450010
+Run No. of Iteration: 2
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 8, 2, 9)], negative regions=[RectangleRegion(2, 8, 2, 9)]) 
+with accuracy: 156.000000 and alpha: 1.286922
+Run No. of Iteration: 3
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(16, 16, 1, 2)], negative regions=[RectangleRegion(15, 16, 1, 2)]) with accuracy: 155.000000 and alpha: 1.011738
+Run No. of Iteration: 4
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 14, 8, 2)], negative regions=[RectangleRegion(4, 16, 8, 2)]) with accuracy: 153.000000 and alpha: 0.908680
+Run No. of Iteration: 5
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(10, 8, 1, 1)], negative regions=[RectangleRegion(9, 8, 1, 1)]) with accuracy: 155.000000 and alpha: 0.924202
+trained------------------------
+
+Evaluate your classifier with training dataset
+False Positive Rate: 23/100 (0.230000)
+False Negative Rate: 0/100 (0.000000)
+Accuracy: 177/200 (0.885000)
+
+Evaluate your classifier with test dataset
+False Positive Rate: 49/100 (0.490000)
+False Negative Rate: 43/100 (0.430000)
+Accuracy: 108/200 (0.540000)
+
+Detect faces at the assigned location using your classifier
+find 4 faces in total
+find 7 faces in total
+
+Detect faces on your own images
+find 3 faces in total
+find 11 faces in total
+------------------------   T =  6 ------------------------
+Computing integral images
+Building features
+Applying features to dataset
+Selecting best features
+Selected 5171 potential features
+Initialize weights
+Run No. of Iteration: 1
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(8, 0, 1, 3), RectangleRegion(7, 3, 1, 3)], negative regions=[RectangleRegion(7, 0, 1, 3), RectangleRegion(8, 3, 1, 3)]) with accuracy: 162.000000 and alpha: 1.450010
+Run No. of Iteration: 2
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 8, 2, 9)], negative regions=[RectangleRegion(2, 8, 2, 9)]) 
+with accuracy: 156.000000 and alpha: 1.286922
+Run No. of Iteration: 3
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(16, 16, 1, 2)], negative regions=[RectangleRegion(15, 16, 1, 2)]) with accuracy: 155.000000 and alpha: 1.011738
+Run No. of Iteration: 4
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 14, 8, 2)], negative regions=[RectangleRegion(4, 16, 8, 2)]) with accuracy: 153.000000 and alpha: 0.908680
+Run No. of Iteration: 5
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(10, 8, 1, 1)], negative regions=[RectangleRegion(9, 8, 1, 1)]) with accuracy: 155.000000 and alpha: 0.924202
+Run No. of Iteration: 6
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(7, 3, 3, 8)], negative regions=[RectangleRegion(4, 3, 3, 8)]) 
+with accuracy: 78.000000 and alpha: 0.769604
+trained------------------------
+
+Evaluate your classifier with training dataset
+False Positive Rate: 22/100 (0.220000)
+False Negative Rate: 0/100 (0.000000)
+Accuracy: 178/200 (0.890000)
+
+Evaluate your classifier with test dataset
+False Positive Rate: 50/100 (0.500000)
+False Negative Rate: 48/100 (0.480000)
+Accuracy: 102/200 (0.510000)
+
+Detect faces at the assigned location using your classifier
+find 4 faces in total
+find 7 faces in total
+
+Detect faces on your own images
+find 3 faces in total
+find 11 faces in total
+------------------------   T =  7 ------------------------
+Computing integral images
+Building features
+Applying features to dataset
+Selecting best features
+Selected 5171 potential features
+Initialize weights
+Run No. of Iteration: 1
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(8, 0, 1, 3), RectangleRegion(7, 3, 1, 3)], negative regions=[RectangleRegion(7, 0, 1, 3), RectangleRegion(8, 3, 1, 3)]) with accuracy: 162.000000 and alpha: 1.450010
+Run No. of Iteration: 2
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 8, 2, 9)], negative regions=[RectangleRegion(2, 8, 2, 9)]) 
+with accuracy: 156.000000 and alpha: 1.286922
+Run No. of Iteration: 3
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(16, 16, 1, 2)], negative regions=[RectangleRegion(15, 16, 1, 2)]) with accuracy: 155.000000 and alpha: 1.011738
+Run No. of Iteration: 4
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 14, 8, 2)], negative regions=[RectangleRegion(4, 16, 8, 2)]) with accuracy: 153.000000 and alpha: 0.908680
+Run No. of Iteration: 5
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(10, 8, 1, 1)], negative regions=[RectangleRegion(9, 8, 1, 1)]) with accuracy: 155.000000 and alpha: 0.924202
+Run No. of Iteration: 6
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(7, 3, 3, 8)], negative regions=[RectangleRegion(4, 3, 3, 8)]) 
+with accuracy: 78.000000 and alpha: 0.769604
+Run No. of Iteration: 7
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(5, 2, 10, 2)], negative regions=[RectangleRegion(5, 4, 10, 2)]) with accuracy: 145.000000 and alpha: 0.719869
+trained------------------------
+
+Evaluate your classifier with training dataset
+False Positive Rate: 20/100 (0.200000)
+False Negative Rate: 0/100 (0.000000)
+Accuracy: 180/200 (0.900000)
+
+Evaluate your classifier with test dataset
+False Positive Rate: 52/100 (0.520000)
+False Negative Rate: 39/100 (0.390000)
+Accuracy: 109/200 (0.545000)
+
+Detect faces at the assigned location using your classifier
+find 4 faces in total
+find 3 faces in total
+
+Detect faces on your own images
+find 2 faces in total
+find 5 faces in total
+------------------------   T =  8 ------------------------
+Computing integral images
+Building features
+Applying features to dataset
+Selecting best features
+Selected 5171 potential features
+Initialize weights
+Run No. of Iteration: 1
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(8, 0, 1, 3), RectangleRegion(7, 3, 1, 3)], negative regions=[RectangleRegion(7, 0, 1, 3), RectangleRegion(8, 3, 1, 3)]) with accuracy: 162.000000 and alpha: 1.450010
+Run No. of Iteration: 2
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 8, 2, 9)], negative regions=[RectangleRegion(2, 8, 2, 9)]) 
+with accuracy: 156.000000 and alpha: 1.286922
+Run No. of Iteration: 3
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(16, 16, 1, 2)], negative regions=[RectangleRegion(15, 16, 1, 2)]) with accuracy: 155.000000 and alpha: 1.011738
+Run No. of Iteration: 4
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 14, 8, 2)], negative regions=[RectangleRegion(4, 16, 8, 2)]) with accuracy: 153.000000 and alpha: 0.908680
+Run No. of Iteration: 5
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(10, 8, 1, 1)], negative regions=[RectangleRegion(9, 8, 1, 1)]) with accuracy: 155.000000 and alpha: 0.924202
+Run No. of Iteration: 6
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(7, 3, 3, 8)], negative regions=[RectangleRegion(4, 3, 3, 8)]) 
+with accuracy: 78.000000 and alpha: 0.769604
+Run No. of Iteration: 7
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(5, 2, 10, 2)], negative regions=[RectangleRegion(5, 4, 10, 2)]) with accuracy: 145.000000 and alpha: 0.719869
+Run No. of Iteration: 8
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(12, 11, 5, 1)], negative regions=[RectangleRegion(12, 12, 5, 1)]) with accuracy: 72.000000 and alpha: 0.685227
+trained------------------------
+
+Evaluate your classifier with training dataset
+False Positive Rate: 18/100 (0.180000)
+False Negative Rate: 0/100 (0.000000)
+Accuracy: 182/200 (0.910000)
+
+Evaluate your classifier with test dataset
+False Positive Rate: 47/100 (0.470000)
+False Negative Rate: 43/100 (0.430000)
+Accuracy: 110/200 (0.550000)
+
+Detect faces at the assigned location using your classifier
+find 4 faces in total
+find 3 faces in total
+
+Detect faces on your own images
+find 2 faces in total
+find 6 faces in total
+------------------------   T =  9 ------------------------
+Computing integral images
+Building features
+Applying features to dataset
+Selecting best features
+Selected 5171 potential features
+Initialize weights
+Run No. of Iteration: 1
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(8, 0, 1, 3), RectangleRegion(7, 3, 1, 3)], negative regions=[RectangleRegion(7, 0, 1, 3), RectangleRegion(8, 3, 1, 3)]) with accuracy: 162.000000 and alpha: 1.450010
+Run No. of Iteration: 2
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 8, 2, 9)], negative regions=[RectangleRegion(2, 8, 2, 9)]) 
+with accuracy: 156.000000 and alpha: 1.286922
+Run No. of Iteration: 3
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(16, 16, 1, 2)], negative regions=[RectangleRegion(15, 16, 1, 2)]) with accuracy: 155.000000 and alpha: 1.011738
+Run No. of Iteration: 4
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(4, 14, 8, 2)], negative regions=[RectangleRegion(4, 16, 8, 2)]) with accuracy: 153.000000 and alpha: 0.908680
+Run No. of Iteration: 5
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(10, 8, 1, 1)], negative regions=[RectangleRegion(9, 8, 1, 1)]) with accuracy: 155.000000 and alpha: 0.924202
+Run No. of Iteration: 6
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(7, 3, 3, 8)], negative regions=[RectangleRegion(4, 3, 3, 8)]) 
+with accuracy: 78.000000 and alpha: 0.769604
+Run No. of Iteration: 7
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(5, 2, 10, 2)], negative regions=[RectangleRegion(5, 4, 10, 2)]) with accuracy: 145.000000 and alpha: 0.719869
+Run No. of Iteration: 8
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(12, 11, 5, 1)], negative regions=[RectangleRegion(12, 12, 5, 1)]) with accuracy: 72.000000 and alpha: 0.685227
+Run No. of Iteration: 9
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(10, 4, 1, 1)], negative regions=[RectangleRegion(9, 4, 1, 1)]) with accuracy: 152.000000 and alpha: 0.707795
+trained------------------------
+
+False Positive Rate: 20/100 (0.200000)
+False Negative Rate: 0/100 (0.000000)
+Accuracy: 180/200 (0.900000)
+
+Evaluate your classifier with test dataset
+False Positive Rate: 48/100 (0.480000)
+False Negative Rate: 37/100 (0.370000)
+Accuracy: 115/200 (0.575000)
+
+Detect faces at the assigned location using your classifier
+find 4 faces in total
+find 3 faces in total
+
+Detect faces on your own images
+find 1 faces in total
+find 7 faces in total
+PS D:\AI_2022_spring\AI_HW1> python main.py
+Loading images
+The number of training samples loaded: 200
+The number of test samples loaded: 200
+Show the first and last images of training dataset
+Start training your classifier
+------------------------   T =  9 ------------------------
+Computing integral images
+Building features
+Applying features to dataset
+Selecting best features
+Selected 5171 potential features
+Initialize weights
+Run No. of Iteration: 1
+Chose classifier: Weak Clf (threshold=0, polarity=1, Haar feature (positive regions=[RectangleRegion(8, 0, 1, 3), RectangleRegion(7, 3, 1, 3)], negative regions=[RectangleRegion(7, 0, 1, 3), RectangleRegion(8, 3, 1, 3)]) with accuracy: 162.000000 and alpha: 1.450010
+trained------------------------
+
+Evaluate your classifier with training dataset
+False Positive Rate: 28/100 (0.280000)
+False Negative Rate: 10/100 (0.100000)
+Accuracy: 162/200 (0.810000)
+
+Evaluate your classifier with test dataset
+False Positive Rate: 49/100 (0.490000)
+False Negative Rate: 55/100 (0.550000)
+Accuracy: 96/200 (0.480000)
+
+Detect faces at the assigned location using your classifier
+find 4 faces in total
+find 14 faces in total
+
+Detect faces on your own images
+find 3 faces in total
+find 13 faces in total
+PS D:\AI_2022_spring\AI_HW1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
